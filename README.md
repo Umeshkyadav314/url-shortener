@@ -62,7 +62,7 @@ Or, using Yarn
 
 ``` bash        Copy code
 yarn dev
-Your application should now be running at http://localhost:3000.
+Your application should now be running at http://localhost:5173.
 ```
 
 # Build for Production
